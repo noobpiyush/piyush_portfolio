@@ -18,7 +18,7 @@ const portfolioProjects = [
       { "title": "Implemented a responsive sidebar for seamless navigation" },
       { "title": "Optimized design for both mobile and desktop views" }
     ],
-    link: "https://yt-homepage-2nsk5fjoc-noobpiyushs-projects.vercel.app/",
+    link: "https://yt-homepage-ts.vercel.app/",
     image: darkSaasLandingPage,
   },
   {
