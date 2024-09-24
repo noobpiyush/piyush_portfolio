@@ -1,6 +1,6 @@
 import darkSaasLandingPage from "@/assets/images/youtube.png";
 import lightSaasLandingPage from "@/assets/images/medium.png";
-import aiStartupLandingPage from "@/assets/images/ai-startup-landing-page.png";
+import BlockChainSAAS from "@/assets/images/blockchain.png";
 import Image from "next/image";
 import CheckCircleIcon from "@/assets/icons/check-circle.svg"
 import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg"
@@ -34,16 +34,16 @@ const portfolioProjects = [
     image: lightSaasLandingPage,
   },
   {
-    company: "Quantum Dynamics",
-    year: "2023",
-    title: "AI Startup Landing Page",
+    company: "BLOCKFORGE",
+    year: "2024",
+    title: "Blockchain SAAS",
     results: [
-      { title: "Enhanced user experience by 40%" },
-      { title: "Improved site speed by 50%" },
-      { title: "Increased mobile traffic by 35%" },
+      { title: "Developed using Astro Framework, Reactjs Components, Framer Motion and Tailwind" },
+      { title: "Implemented Smooth Animations for best UI/UX" },
+      { title: "Used Astro's Content Mangement for smooth Content Fetching" },
     ],
-    link: "https://github.com/noobpiyush",
-    image: aiStartupLandingPage,
+    link: "https://dark-saas-blockchain.netlify.app/",
+    image: BlockChainSAAS,
   },
 ];
 
