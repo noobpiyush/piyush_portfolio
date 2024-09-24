@@ -1,6 +1,6 @@
 import darkSaasLandingPage from "@/assets/images/youtube.png";
 import lightSaasLandingPage from "@/assets/images/medium.png";
-import BlockChainSAAS from "@/assets/images/blockchain.png";
+import BlockChainSAAS from "@/assets/images/image.png";
 import Image from "next/image";
 import CheckCircleIcon from "@/assets/icons/check-circle.svg"
 import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg"
